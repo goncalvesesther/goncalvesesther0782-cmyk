@@ -1,0 +1,74 @@
+# =====================================================================
+# WORKFLOW: Animação da cobrinha (contribuições do GitHub)
+# Tema: preto + vermelho neon (#ff003c / #b30021)
+#
+# ONDE COLOCAR ESTE ARQUIVO:
+#   .github/workflows/snake.yml
+#   (no repositório de perfil: goncalvesesther0782-cmyk/goncalvesesther0782-cmyk)
+#
+# COMO FUNCIONA:
+#   1. Lê o gráfico de contribuições do usuário dono do repositório.
+#   2. Gera duas animações SVG (uma para tema escuro, outra para claro).
+#   3. Publica os SVGs em uma branch chamada "output".
+#   4. O README.md carrega as imagens a partir dessa branch.
+#
+# PRIMEIRA EXECUÇÃO:
+#   Vá em Actions > "Gerar animação da cobrinha" > Run workflow.
+#   Até o workflow rodar uma vez, a branch "output" não existe e a
+#   imagem aparecerá quebrada no README.
+#
+# SE DER ERRO DE PERMISSÃO:
+#   Settings > Actions > General > Workflow permissions
+#   > marque "Read and write permissions" e salve.
+# =====================================================================
+
+name: Gerar animação da cobrinha
+
+on:
+  # Atualiza automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+
+  # Roda também a cada envio (push) na branch principal
+  push:
+    branches:
+      - main
+
+jobs:
+  gerar-cobrinha:
+    name: Gerar e publicar a cobrinha
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Permissão para publicar os arquivos na branch "output"
+    permissions:
+      contents: write
+
+    steps:
+      # ---------------------------------------------------------------
+      # 1) Gera os SVGs a partir das contribuições do usuário
+      #    - github_user_name usa automaticamente o dono do repositório
+      #    - color_snake: cor da cobrinha
+      #    - color_dots: 5 cores (sem contribuição → mais contribuições)
+      # ---------------------------------------------------------------
+      - name: Gerar SVGs da cobrinha
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-red.svg?color_snake=#ff003c&color_dots=#161616,#4d000f,#800019,#b30021,#ff003c
+            dist/github-snake-red-light.svg?color_snake=#b30021&color_dots=#ebedf0,#ffc2cc,#ff8095,#e6003a,#b30021
+
+      # ---------------------------------------------------------------
+      # 2) Publica a pasta "dist" na branch "output"
+      # ---------------------------------------------------------------
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
