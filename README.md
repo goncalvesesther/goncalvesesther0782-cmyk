@@ -1,57 +1,4 @@
-<!--
-  =====================================================================
-  README DO PERFIL — Esther Gonçalves
-  Tema: preto + vermelho neon (#ff003c / #b30021)
-
-  LEMBRETES PARA EDIÇÃO:
-  • Este arquivo só aparece no perfil se estiver no repositório PÚBLICO
-    com o mesmo nome do usuário: goncalvesesther0782-cmyk
-  • A animação da cobrinha depende do workflow .github/workflows/snake.yml
-    (arquivo snake.yml). Rode-o uma vez em Actions > Run workflow para
-    criar a branch "output" que guarda as imagens.
-  • Os cartões e gráficos usam serviços públicos gratuitos. Se algum não
-    carregar, o serviço pode estar temporariamente limitado: aguarde e
-    atualize a página mais tarde.
-  • As estatísticas são reais e refletem a atividade do perfil.
-    Perfis novos mostram números baixos no início, e isso é normal.
-  =====================================================================
--->
-
-<!-- ============================ BANNER ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:b30021,100:ff003c&height=240&section=header&text=Ol%C3%A1!%20Eu%20sou%20Esther%20Gon%C3%A7alves&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Desenvolvimento%20Front-End&descSize=18&descAlignY=58" alt="Banner: Olá! Eu sou Esther Gonçalves" width="100%" />
-</p>
-
-<!-- ======================= TEXTO DIGITADO ======================== -->
-<p align="center">
-  <a href="https://github.com/goncalvesesther0782-cmyk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Estudante+de+Desenvolvimento+Front-End;Aprendendo+HTML%2C+CSS+e+JavaScript;Criando+interfaces+modernas+e+responsivas;Curiosa%2C+dedicada+e+sempre+evoluindo" alt="Texto animado: Estudante de Desenvolvimento Front-End" />
-  </a>
-</p>
-
-<!-- ======================= CONTADOR E SELOS ====================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goncalvesesther0782-cmyk&label=Visitas&color=b30021&style=for-the-badge" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/goncalvesesther0782-cmyk?label=Seguidores&style=for-the-badge&logo=github&logoColor=ff003c&labelColor=0d0d0d&color=b30021" alt="Seguidores no GitHub" />
-</p>
-
-<!-- ============================ DIVISOR =========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" />
-</p>
-
-<!-- ============================ SOBRE MIM ========================= -->
-<h2 align="center">👩‍💻 Sobre mim</h2>
-
-<p align="center">
-  Sou estudante de <b>Desenvolvimento Front-End</b> e estou aprendendo a construir
-  <b>interfaces web modernas, responsivas e interativas</b>.<br />
-  Cada exercício, cada projeto e cada linha de código é um passo na minha jornada:
-  sigo movida pela <b>curiosidade</b>, pela <b>dedicação</b> e pela vontade de evoluir um pouco mais todos os dias.<br />
-  Ainda estou no começo do caminho, e é isso que torna tudo tão empolgante. 🚀
-</p>
-
-```javascript
+<!-- ===================================================================== README DO PERFIL — Esther Gonçalves Tema: preto + vermelho neon (#ff003c / #b30021) LEMBRETES PARA EDIÇÃO: • Este arquivo só aparece no perfil se estiver no repositório PÚBLICO com o mesmo nome do usuário: goncalvesesther0782-cmyk • A animação da cobrinha depende do workflow .github/workflows/snake.yml (arquivo snake.yml). Rode-o uma vez em Actions > Run workflow para criar a branch "output" que guarda as imagens. • Os cartões e gráficos usam serviços públicos gratuitos. Se algum não carregar, o serviço pode estar temporariamente limitado: aguarde e atualize a página mais tarde. • As estatísticas são reais e refletem a atividade do perfil. Perfis novos mostram números baixos no início, e isso é normal. ===================================================================== --> <!-- ============================ BANNER ============================ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:b30021,100:ff003c&height=240&section=header&text=Ol%C3%A1!%20Eu%20sou%20Esther%20Gon%C3%A7alves&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Desenvolvimento%20Front-End&descSize=18&descAlignY=58" alt="Banner: Olá! Eu sou Esther Gonçalves" width="100%" /> </p> <!-- ======================= TEXTO DIGITADO ======================== --> <p align="center"> <a href="https://github.com/goncalvesesther0782-cmyk"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Estudante+de+Desenvolvimento+Front-End;Aprendendo+HTML%2C+CSS+e+JavaScript;Criando+interfaces+modernas+e+responsivas;Curiosa%2C+dedicada+e+sempre+evoluindo" alt="Texto animado: Estudante de Desenvolvimento Front-End" /> </a> </p> <!-- ======================= CONTADOR E SELOS ====================== --> <p align="center"> <a href="https://hits.sh/github.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/"> <img src="https://hits.sh/github.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk.svg?style=for-the-badge&label=Visitas&color=b30021&labelColor=0d0d0d" alt="Contador de visitas" /> </a> <img src="https://img.shields.io/github/followers/goncalvesesther0782-cmyk?label=Seguidores&style=for-the-badge&logo=github&logoColor=ff003c&labelColor=0d0d0d&color=b30021" alt="Seguidores no GitHub" /> </p> <!-- ============================ DIVISOR =========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" /> </p> <!-- ============================ SOBRE MIM ========================= --> <h2 align="center">👩‍💻 Sobre mim</h2> <!-- Linhas curtas e quebras manuais: evitam palavras ou pontuação soltas em telas estreitas --> <p align="center"> Sou estudante de <b>Desenvolvimento Front-End</b><br /> e estou aprendendo a construir<br /> <b>interfaces web modernas, responsivas e interativas</b>. </p> <p align="center"> Cada exercício, cada projeto e cada linha de código<br /> é um passo na minha jornada.<br /> Sigo movida pela <b>curiosidade</b> e pela <b>dedicação</b>,<br /> com vontade de evoluir um pouco mais todos os dias. </p> <p align="center"> Ainda estou no começo do caminho,<br /> e é isso que torna tudo tão empolgante. 🚀 </p>
 const esther = {
   nome: "Esther Gonçalves",
   foco: "Desenvolvimento Front-End",
@@ -59,148 +6,21 @@ const esther = {
   objetivo: "Criar interfaces modernas, responsivas e interativas",
   mentalidade: "Curiosa, dedicada e em constante evolução 🔴"
 };
-```
+<table align="center"> <tr> <td align="center"> <h3>🎨 Interfaces<br />modernas</h3> <sub>Estudando como criar telas<br />bonitas e agradáveis de usar.</sub> </td> <td align="center"> <h3>📱<br />Responsividade</h3> <sub>Aprendendo a adaptar páginas<br />a qualquer tamanho de tela.</sub> </td> <td align="center"> <h3>⚡<br />Interatividade</h3> <sub>Dando vida às páginas<br />com JavaScript.</sub> </td> </tr> </table> <!-- ============================ DIVISOR =========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" /> </p> <!-- ======================= TECNOLOGIAS QUE ESTUDO ================= --> <h2 align="center">💻 Tecnologias que estudo</h2> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=FF003C&center=true&vCenter=true&repeat=true&width=420&height=30&lines=%3E+HTML5+para+estruturar;%3E+CSS3+para+estilizar;%3E+JavaScript+para+dar+vida" alt="Texto animado sobre as tecnologias estudadas" /> </p> <p align="center"> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff003c" alt="HTML5" height="42" /> </a> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff003c" alt="CSS3" height="42" /> </a> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff003c" alt="JavaScript" height="42" /> </a> </p> <!-- ============================ DIVISOR =========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" /> </p> <!-- ===================== ESTATÍSTICAS DO GITHUB =================== --> <h2 align="center">📊 Estatísticas do GitHub</h2> <!-- Imagens lado a lado: em telas estreitas, a segunda passa para a linha de baixo sem cortar --> <p align="center"> <img alt="Estatísticas gerais do GitHub de Esther" src="https://github-readme-stats.vercel.app/api?username=goncalvesesther0782-cmyk&show_icons=true&hide_border=false&locale=pt-br&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&icon_color=ff003c&ring_color=ff003c&border_color=b30021&border_radius=12&custom_title=Estat%C3%ADsticas%20de%20Esther" /> <img alt="Linguagens mais utilizadas por Esther" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesesther0782-cmyk&layout=compact&langs_count=6&hide_border=false&locale=pt-br&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&border_color=b30021&border_radius=12&custom_title=Linguagens%20mais%20usadas" /> </p> <p align="center"> <img alt="Sequência de contribuições de Esther" src="https://streak-stats.demolab.com?user=goncalvesesther0782-cmyk&background=0D0D0D&border=B30021&stroke=2B2B2B&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&currStreakLabel=FF003C&sideNums=FFFFFF&sideLabels=BDBDBD&dates=8A8A8A&locale=pt_BR&border_radius=12&hide_border=false" /> </p> <!-- ============================ DIVISOR =========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" /> </p> <!-- ================= REPOSITÓRIOS E ATIVIDADE ===================== --> <h2 align="center">📂 Repositórios e atividade</h2> <!-- CARTÃO DE REPOSITÓRIO Para destacar outro projeto, copie o bloco abaixo e troque o valor de "repo=" pelo nome do repositório (ele precisa ser público). --> <p align="center"> <a href="https://github.com/goncalvesesther0782-cmyk/atividades"> <img alt="Repositório atividades" src="https://github-readme-stats.vercel.app/api/pin/?username=goncalvesesther0782-cmyk&repo=atividades&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&icon_color=ff003c&border_color=b30021&border_radius=12&locale=pt-br" /> </a> </p> <!-- GRÁFICO DE ATIVIDADE --> <p align="center"> <img alt="Gráfico de atividade no GitHub" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goncalvesesther0782-cmyk&bg_color=0d0d0d&color=ff003c&line=b30021&point=ffffff&area=true&area_color=b30021&hide_border=true&radius=12&custom_title=Gr%C3%A1fico%20de%20atividade" /> </p> <!-- COBRINHA ANIMADA Gerada pelo workflow snake.yml e publicada na branch "output". Mostra a versão escura ou clara conforme o tema de quem visita o perfil. --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red-light.svg" /> <img alt="Cobrinha animada percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red.svg" width="100%" /> </picture> </p> <!-- ============================ DIVISOR =========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" /> </p> <!-- ========================= CONECTE-SE COMIGO ==================== --> <h2 align="center">🌐 Conecte-se comigo</h2> <p align="center"> <a href="https://github.com/goncalvesesther0782-cmyk" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-Ver%20meu%20perfil-0d0d0d?style=for-the-badge&logo=github&logoColor=white&labelColor=b30021" alt="Acessar meu perfil no GitHub" height="42" /> </a> <!-- ESPAÇO PARA OUTRAS REDES SOCIAIS (remova os comentários e troque pelos seus dados reais):
+&nbsp;
+<a href="COLE_AQUI_O_LINK_DO_LINKEDIN" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b30021" alt="LinkedIn" height="42" />
+</a>
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <h3>🎨 Interfaces modernas</h3>
-      <sub>Estudando como criar telas bonitas<br />e agradáveis de usar.</sub>
-    </td>
-    <td align="center" width="250">
-      <h3>📱 Responsividade</h3>
-      <sub>Aprendendo a adaptar páginas<br />para qualquer tamanho de tela.</sub>
-    </td>
-    <td align="center" width="250">
-      <h3>⚡ Interatividade</h3>
-      <sub>Dando vida às páginas<br />com JavaScript.</sub>
-    </td>
-  </tr>
-</table>
+&nbsp;
+<a href="COLE_AQUI_O_LINK_DO_INSTAGRAM" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-Seguir-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b30021" alt="Instagram" height="42" />
+</a>
 
-<!-- ============================ DIVISOR =========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" />
-</p>
-
-<!-- ======================= TECNOLOGIAS QUE ESTUDO ================= -->
-<h2 align="center">💻 Tecnologias que estudo</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=FF003C&center=true&vCenter=true&repeat=true&width=420&height=30&lines=%3E+HTML5+para+estruturar;%3E+CSS3+para+estilizar;%3E+JavaScript+para+dar+vida" alt="Texto animado sobre as tecnologias estudadas" />
-</p>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff003c" alt="HTML5" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff003c" alt="CSS3" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff003c" alt="JavaScript" height="42" />
-  </a>
-</p>
-
-<!-- ============================ DIVISOR =========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" />
-</p>
-
-<!-- ===================== ESTATÍSTICAS DO GITHUB =================== -->
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="195" alt="Estatísticas gerais do GitHub de Esther" src="https://github-readme-stats.vercel.app/api?username=goncalvesesther0782-cmyk&show_icons=true&hide_border=false&locale=pt-br&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&icon_color=ff003c&ring_color=ff003c&border_color=b30021&border_radius=12&custom_title=Estat%C3%ADsticas%20de%20Esther" />
-    </td>
-    <td align="center">
-      <img height="195" alt="Linguagens mais utilizadas por Esther" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesesther0782-cmyk&layout=compact&langs_count=6&hide_border=false&locale=pt-br&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&border_color=b30021&border_radius=12&custom_title=Linguagens%20mais%20usadas" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img alt="Sequência de contribuições de Esther" src="https://streak-stats.demolab.com?user=goncalvesesther0782-cmyk&background=0D0D0D&border=B30021&stroke=2B2B2B&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&currStreakLabel=FF003C&sideNums=FFFFFF&sideLabels=BDBDBD&dates=8A8A8A&locale=pt_BR&border_radius=12&hide_border=false" />
-</p>
-
-<!-- ============================ DIVISOR =========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" />
-</p>
-
-<!-- ================= REPOSITÓRIOS E ATIVIDADE ===================== -->
-<h2 align="center">📂 Repositórios e atividade</h2>
-
-<!--
-  CARTÃO DE REPOSITÓRIO
-  Para destacar outro projeto, copie o bloco abaixo e troque o valor de
-  "repo=" pelo nome do repositório (ele precisa ser público).
+&nbsp;
+<a href="mailto:COLE_AQUI_O_SEU_EMAIL">
+  <img src="https://img.shields.io/badge/E--mail-Enviar-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b30021" alt="E-mail" height="42" />
+</a>
 -->
-<p align="center">
-  <a href="https://github.com/goncalvesesther0782-cmyk/atividades">
-    <img alt="Repositório atividades" src="https://github-readme-stats.vercel.app/api/pin/?username=goncalvesesther0782-cmyk&repo=atividades&bg_color=0d0d0d&title_color=ff003c&text_color=d9d9d9&icon_color=ff003c&border_color=b30021&border_radius=12&locale=pt-br" />
-  </a>
-</p>
 
-<!-- GRÁFICO DE ATIVIDADE -->
-<p align="center">
-  <img alt="Gráfico de atividade no GitHub" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goncalvesesther0782-cmyk&bg_color=0d0d0d&color=ff003c&line=b30021&point=ffffff&area=true&area_color=b30021&hide_border=true&radius=12&custom_title=Gr%C3%A1fico%20de%20atividade" />
-</p>
-
-<!--
-  COBRINHA ANIMADA
-  Gerada pelo workflow snake.yml e publicada na branch "output".
-  Mostra a versão escura ou clara conforme o tema de quem visita o perfil.
--->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red-light.svg" />
-    <img alt="Cobrinha animada percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/goncalvesesther0782-cmyk/goncalvesesther0782-cmyk/output/github-snake-red.svg" width="100%" />
-  </picture>
-</p>
-
-<!-- ============================ DIVISOR =========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff003c,100:000000&height=2" width="100%" alt="" />
-</p>
-
-<!-- ========================= CONECTE-SE COMIGO ==================== -->
-<h2 align="center">🌐 Conecte-se comigo</h2>
-
-<p align="center">
-  <a href="https://github.com/goncalvesesther0782-cmyk" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20meu%20perfil-0d0d0d?style=for-the-badge&logo=github&logoColor=white&labelColor=b30021" alt="Acessar meu perfil no GitHub" height="42" />
-  </a>
-  <!--
-    ESPAÇO PARA OUTRAS REDES SOCIAIS (remova os comentários e troque pelos seus dados reais):
-
-    &nbsp;
-    <a href="COLE_AQUI_O_LINK_DO_LINKEDIN" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b30021" alt="LinkedIn" height="42" />
-    </a>
-
-    &nbsp;
-    <a href="COLE_AQUI_O_LINK_DO_INSTAGRAM" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-Seguir-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b30021" alt="Instagram" height="42" />
-    </a>
-
-    &nbsp;
-    <a href="mailto:COLE_AQUI_O_SEU_EMAIL">
-      <img src="https://img.shields.io/badge/E--mail-Enviar-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b30021" alt="E-mail" height="42" />
-    </a>
-  -->
-</p>
-
-<!-- ============================== RODAPÉ ========================== -->
-<p align="center">
-  <i>🖤 Obrigada por passar por aqui! Siga acompanhando minha evolução. 🔴</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:b30021,100:ff003c&height=120&section=footer" alt="Rodapé decorativo" width="100%" />
-</p>
+</p> <!-- ============================== RODAPÉ ========================== --> <p align="center"> <i>🖤 Obrigada por passar por aqui! Siga acompanhando minha evolução. 🔴</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:b30021,100:ff003c&height=120&section=footer" alt="Rodapé decorativo" width="100%" /> </p>  
